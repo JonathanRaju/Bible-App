@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bible-App/static/css/main.1e273854.css",
-    "main.js": "/Bible-App/static/js/main.ce2c95ca.js",
+    "main.js": "/Bible-App/static/js/main.ff708766.js",
     "static/js/453.ebb492f6.chunk.js": "/Bible-App/static/js/453.ebb492f6.chunk.js",
     "index.html": "/Bible-App/index.html",
     "main.1e273854.css.map": "/Bible-App/static/css/main.1e273854.css.map",
-    "main.ce2c95ca.js.map": "/Bible-App/static/js/main.ce2c95ca.js.map",
+    "main.ff708766.js.map": "/Bible-App/static/js/main.ff708766.js.map",
     "453.ebb492f6.chunk.js.map": "/Bible-App/static/js/453.ebb492f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e273854.css",
-    "static/js/main.ce2c95ca.js"
+    "static/js/main.ff708766.js"
   ]
 }
